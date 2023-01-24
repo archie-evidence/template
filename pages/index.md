@@ -1,6 +1,8 @@
 # Welcome to Evidence! 👋
 Build a polished business intelligence system using only SQL & Markdown.
 
+This is a new project for a new user
+
 # Write Markdown
 Evidence creates pages from markdown files. The file for this page is:
 
